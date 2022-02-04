@@ -2,7 +2,7 @@
 
 Simple REST API.
 
-Implemented:
+Implemented:\
 Authorization, authentication (JWT token).\
 CRUD for todo lists, CRUD for list items.\
 Writing data in database (Postgres).\
