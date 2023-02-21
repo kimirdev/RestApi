@@ -1,4 +1,4 @@
-# WebApi
+# RestApi
 
 Simple REST API.
 
